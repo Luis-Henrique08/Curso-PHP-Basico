@@ -1,0 +1,12 @@
+/* _css/estilo.css */
+
+.vermelho {
+    color: red;
+}
+
+.botao {
+    background-color: rgb(123, 59, 241);
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+}
